@@ -1,0 +1,8 @@
+pynput
+discord
+asyncio
+commands
+threading
+sys
+time
+ctypes
