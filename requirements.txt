@@ -6,3 +6,10 @@ threading
 sys
 time
 ctypes
+pyautogui
+dotenv
+pygetwindow
+requests
+subprocess
+os
+json
