@@ -1,5 +1,5 @@
 # maltov_h
-##this project is on hold due to some errors
+## this project is on hold due to some errors
 
 a discord c2 written in py.
 
